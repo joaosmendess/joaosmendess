@@ -1,124 +1,65 @@
-# João Mendes
+<div align="center">
 
-### Software Engineer · Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:61DAFB&height=170&section=header&text=Jo%C3%A3o%20Mendes&fontSize=44&fontColor=ffffff&desc=Software%20Engineer%20%C2%B7%20.NET%20%2B%20React&descAlignY=65&animation=fadeIn" width="100%"/>
 
-Software Engineer focused on building and modernizing web and mobile applications. Experienced in backend and frontend development, API design, databases, cloud environments, and software modernization.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=620&lines=Building+SaaS+platforms+for+US+%26+Canadian+companies;C%23%2F.NET+%E2%80%A2+React+%E2%80%A2+React+Native+%E2%80%A2+Node.js;AWS+%E2%80%A2+Azure+%E2%80%A2+Auth0+%E2%80%A2+SQL+Server;Modernizing+legacy+systems+without+breaking+prod" />
 
-Currently working with international teams, developing solutions using **C#/.NET, React, React Native, Node.js, SQL/NoSQL databases, AWS and Azure**.
-
----
-
-## About Me
-
-* 💻 Software Engineer with experience in full-stack development
-* 🔹 Backend development with **C#, .NET, Node.js and REST APIs**
-* 🔹 Web and mobile development with **React, React Native and TypeScript**
-* 🔹 Experience with **SQL Server, PostgreSQL, MySQL and MongoDB**
-* 🔹 Cloud experience with **AWS and Azure**
-* 🔹 Authentication and authorization using **OAuth 2.0, JWT and Auth0**
-* 🔹 Experience working with software modernization and legacy migration
-* 🔹 International development environment and distributed teams
-* 🎓 Analysis and Systems Development student
-
----
-
-## Tech Stack
-
-### Backend
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-### Frontend & Mobile
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Cloud & Development Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## Experience
-
-### Software Engineer — Joya Solutions
-
-**Sep 2024 – Present**
-
-Working on software solutions for international clients, contributing to backend, frontend and modernization initiatives.
-
-* Development and maintenance of applications using **C#/.NET and React**
-* Development of APIs and integrations
-* Modernization of existing software systems
-* Database development and maintenance
-* Collaboration with distributed international teams
-* Code reviews, debugging and production support
-
-### Selected Technologies
-
-**C# · .NET · React · React Native · TypeScript · Node.js · SQL Server · MongoDB · PostgreSQL · AWS · Azure**
-
----
-
-## Featured Projects
-
-### Financial Compass
-
-A personal financial management application focused on goals, expenses, credit cards and financial planning.
-
-**React · TypeScript · Vite · Tailwind CSS · PostgreSQL**
-
----
-
-### Cash Food Brasil
-
-Full-stack food and payment platform involving mobile development, backend APIs and payment integrations.
-
-**React Native · Expo · Node.js · Express · PostgreSQL · Prisma**
-
----
-
-### Flynn F.A.S.T.
-
-Web platform developed for an international client, involving backend APIs and database integration.
-
-**C# · .NET Core · MongoDB**
-
----
-
-## GitHub
-
-I'm interested in building software that combines solid backend architecture, modern frontend experiences, and practical solutions to real-world problems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-joaosmendess-181717?style=for-the-badge&logo=github)](https://github.com/joaosmendess)
-
-## Connect
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/joaosmendess/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:contato.joaomsdev@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/joaosmendess/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://joaomsdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="mailto:contato.joaomsdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=joaosmendess&style=flat-square&color=512BD4&label=profile+views"/>
 
 </div>
+
+---
+
+### 👋 About me
+
+I'm a **Full Stack Software Engineer** from Maceió, Brazil, working remotely with international teams. I build and modernize **SaaS platforms** for companies in the **US mortgage** and **Canadian field service** industries.
+
+- 🔐 Migrated a loan servicing platform's authentication to **Auth0** (SSO, OAuth2, JWT)
+- ☁️ Integrated **AWS** (Lambda, S3, SQS, DynamoDB, AppConfig) and **Azure** (SignalR, Key Vault)
+- 📱 Shipped a cashback platform end to end: **React Native** app, **Node.js** API, **PIX** payments
+- 🧱 Comfortable with legacy: .NET Framework, stored procedures and gradual modernization
+- 🎓 Systems Analysis & Development @ CESMAC (graduating Dec 2026)
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,ts,react,vite,tailwind&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,aws,azure,docker,git&perline=8" />
+</p>
+
+**Also:** SQL Server · Entity Framework · ASP.NET Web API · Auth0 · OAuth2/JWT · HMAC · Serilog · New Relic
+
+### 💼 Experience
+
+**Software Engineer, Full Stack · [JOYA Solutions](https://www.linkedin.com/company/78765453/)** · *Sep 2024 – Present · Remote*
+
+| Project | What I do | Stack |
+|---|---|---|
+| Loan servicing SaaS · US mortgage | Modernize bankruptcy, cash management and credit reporting modules. Led the Auth0 SSO migration. | C# · .NET Core · SQL Server · AWS AppConfig · Auth0 |
+| Field service management · Canada | Built REST APIs, cloud integrations, and PDF/Excel reporting. | ASP.NET Web API · AWS · Azure · MongoDB · SQL Server |
+
+**Freelance Software Engineer** · *2023 – Present*: cashback platform, museum and cultural heritage apps, landing pages.
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Cash Food Brasil** | Cashback platform connecting restaurants, customers and waiters, with PIX and card payments and WhatsApp integration. | React Native · Expo · Node.js · PostgreSQL · Prisma |
+| **Serra da Barriga** | Web experience for a historic site with ~10,000 visitors/year, with QR-code contextual content. | React · TypeScript |
+| **Financial Compass** | Personal finance app for goals, expenses, credit cards and planning. | React · TypeScript · Vite · Tailwind · PostgreSQL |
+| [**RestWithASP-NET**](https://github.com/joaosmendess/RestWithASP-NET) | REST API with ASP.NET Core. | C# · .NET |
+| [**OpineWeb**](https://github.com/joaosmendess/opine-web) | Service review platform. [Live ↗](https://opine-web.vercel.app) | JavaScript |
+| [**react-form**](https://github.com/joaosmendess/react-form) | Typed, composable forms with React Hook Form + Zod. | React · TypeScript · Zod |
+
+### 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaosmendess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=joaosmendess&theme=tokyonight&hide_border=true" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:512BD4&height=100&section=footer" width="100%"/>
