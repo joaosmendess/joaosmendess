@@ -13,17 +13,17 @@
 
 ---
 
-### 👋 About me
+### About me
 
 I'm a **Full Stack Software Engineer** from Maceió, Brazil, working remotely with international teams. I build and modernize **SaaS platforms** for companies in the **US mortgage** and **Canadian field service** industries.
 
-- 🔐 Migrated a loan servicing platform's authentication to **Auth0** (SSO, OAuth2, JWT)
-- ☁️ Integrated **AWS** (Lambda, S3, SQS, DynamoDB, AppConfig) and **Azure** (SignalR, Key Vault)
-- 📱 Shipped a cashback platform end to end: **React Native** app, **Node.js** API, **PIX** payments
-- 🧱 Comfortable with legacy: .NET Framework, stored procedures and gradual modernization
-- 🎓 Systems Analysis & Development @ CESMAC (graduating Dec 2026)
+- **Auth & security:** migrated a loan servicing platform's authentication to **Auth0** (SSO, OAuth2, JWT)
+- **Cloud:** integrated **AWS** (Lambda, S3, SQS, DynamoDB, AppConfig) and **Azure** (SignalR, Key Vault)
+- **Product:** shipped a cashback platform end to end: **React Native** app, **Node.js** API, **PIX** payments
+- **Legacy:** .NET Framework, stored procedures and gradual modernization without breaking production
+- **Education:** Systems Analysis & Development @ CESMAC (graduating Dec 2026)
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,ts,react,vite,tailwind&perline=8" />
@@ -33,7 +33,7 @@ I'm a **Full Stack Software Engineer** from Maceió, Brazil, working remotely wi
 
 **Also:** SQL Server · Entity Framework · ASP.NET Web API · Auth0 · OAuth2/JWT · HMAC · Serilog · New Relic
 
-### 💼 Experience
+### Experience
 
 **Software Engineer, Full Stack · [JOYA Solutions](https://www.linkedin.com/company/78765453/)** · *Sep 2024 – Present · Remote*
 
@@ -44,7 +44,7 @@ I'm a **Full Stack Software Engineer** from Maceió, Brazil, working remotely wi
 
 **Freelance Software Engineer** · *2023 – Present*: cashback platform, museum and cultural heritage apps, landing pages.
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -52,10 +52,10 @@ I'm a **Full Stack Software Engineer** from Maceió, Brazil, working remotely wi
 | **Serra da Barriga** | Web experience for a historic site with ~10,000 visitors/year, with QR-code contextual content. | React · TypeScript |
 | **Financial Compass** | Personal finance app for goals, expenses, credit cards and planning. | React · TypeScript · Vite · Tailwind · PostgreSQL |
 | [**RestWithASP-NET**](https://github.com/joaosmendess/RestWithASP-NET) | REST API with ASP.NET Core. | C# · .NET |
-| [**OpineWeb**](https://github.com/joaosmendess/opine-web) | Service review platform. [Live ↗](https://opine-web.vercel.app) | JavaScript |
+| [**OpineWeb**](https://github.com/joaosmendess/opine-web) | Service review platform. [Live demo](https://opine-web.vercel.app) | JavaScript |
 | [**react-form**](https://github.com/joaosmendess/react-form) | Typed, composable forms with React Hook Form + Zod. | React · TypeScript · Zod |
 
-### 📊 GitHub activity
+### GitHub activity
 
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=joaosmendess&theme=tokyonight&hide_border=true" />
