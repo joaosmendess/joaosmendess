@@ -55,10 +55,9 @@ I'm a **Full Stack Software Engineer** from Maceió, Brazil, working remotely wi
 | [**OpineWeb**](https://github.com/joaosmendess/opine-web) | Service review platform. [Live ↗](https://opine-web.vercel.app) | JavaScript |
 | [**react-form**](https://github.com/joaosmendess/react-form) | Typed, composable forms with React Hook Form + Zod. | React · TypeScript · Zod |
 
-### 📊 GitHub stats
+### 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaosmendess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=joaosmendess&theme=tokyonight&hide_border=true" />
 </div>
 
